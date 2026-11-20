@@ -5,6 +5,17 @@ A modern, secure, and resilient RESTful API backend for **SalonBook**, built wit
 
 ---
 
+## 🌐 Live Production Deployments & GitHub Repositories
+
+| Target | URL |
+| :--- | :--- |
+| **🚀 Live Client Application (Vercel)** | [https://client-pi-three-30.vercel.app](https://client-pi-three-30.vercel.app) |
+| **⚡ Live Backend API (Vercel)** | [https://server-lac-ten-53.vercel.app](https://server-lac-ten-53.vercel.app) |
+| **📦 GitHub Client Repository** | [https://github.com/razzak-dev007/salonbook-client](https://github.com/razzak-dev007/salonbook-client) |
+| **📦 GitHub Server Repository** | [https://github.com/razzak-dev007/salonbook-server](https://github.com/razzak-dev007/salonbook-server) |
+
+---
+
 ## 📌 Project Overview
 SalonBook is a salon appointment booking platform where customers explore salon services, request appointments, manage bookings, and complete secure payments via Stripe. Administrators manage services, review appointment requests, handle customer accounts, and monitor payment transactions.
 
