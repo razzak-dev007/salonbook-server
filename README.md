@@ -121,8 +121,8 @@ The server will be accessible at `http://localhost:5000`.
 ---
 
 ## 🔗 Repository & Live Deployment Links
-- **Live Client Application**: https://salonbook-client.vercel.app
-- **Live Server API**: https://salonbook-server.vercel.app
+- **Live Client Application**: https://client-pi-three-30.vercel.app
+- **Live Server API**: https://server-lac-ten-53.vercel.app
 - **Client GitHub Repository**: https://github.com/razzak-dev007/salonbook-client
 - **Server GitHub Repository**: https://github.com/razzak-dev007/salonbook-server
 
